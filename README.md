@@ -1,3 +1,6 @@
+Personal Finance Tracker App using React, Redux and Firebase with user authentication
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
